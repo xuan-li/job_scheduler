@@ -2,6 +2,8 @@
 
 A Python library for scheduling and running jobs across multiple GPUs with automatic load balancing and resource management.
 
+> **⚠️ Warning**: This code was generated and written by Cursor AI. Please review and test thoroughly before using in production environments.
+
 ## Features
 
 - **GPU Load Balancing**: Automatically distributes jobs across available GPUs based on memory usage
